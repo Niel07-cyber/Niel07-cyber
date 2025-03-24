@@ -1,8 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Niel</h1>
 
 <p align="center">
-  Full-Stack Software Developer | UI/UX Designer | Quality Assurance<br>
-  Passionate about clean code, scalable systems, and beautiful interfaces.  
+  Full-Stack Software Developer | UI/UX Designer | Quality Assurance Testing | Machine Learning<br>
+  Passionate about AI & data-driven technologies, efficent and user-friendly code. I am eager to contribute my skills to an innovative platform 
 </p>
 
 ---
@@ -10,9 +10,9 @@
 ### 👨‍💻 About Me:
 - 🌍 Based in Lille,France
 - 🔭 Currently working on: **CMS AJAX + WordPress Integration**
-- 🌱 Currently learning: **NestJS, TypeScript, and Security**
-- 💬 Ask me about **Node.js, React, and Full-Stack Development**
-- ⚡ Fun fact: I enjoy blending design with code 🎨💻
+- 🌱 Currently learning: **Deep learning & AI Model training**
+- 💬 Ask me about **Mobile, Web, and UI/UX**
+- ⚡ Fun fact: I enjoy Debugging code 🎨💻
 
 ---
 
