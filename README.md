@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Niel</h1>
+<h1 align="center">Hey there 👋, I'm Othniel Aryee</h1>
 
 <p align="center">
   Full-Stack Software Developer | UI/UX Designer | Quality Assurance Testing | Machine Learning<br>
