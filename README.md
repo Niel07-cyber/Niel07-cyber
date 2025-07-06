@@ -9,9 +9,8 @@
 
 ### 👨‍💻 About Me:
 - 🌍 Based in Lille,France
-- 🔭 Currently working on: **CMS AJAX + WordPress Integration**
-- 🌱 Currently learning: **Deep learning & AI Model training**
-- 💬 Ask me about **Mobile, Web, and UI/UX**
+- 🔭 Currently working on: **Deep learning Models for cardiovascular scans and modification of Nightingale website**
+- 💬 Ask me about **Mobile, Web, Quality Assurance, Model Training and UI/UX**
 - ⚡ Fun fact: I enjoy Debugging code 🎨💻
 
 ---
