@@ -30,15 +30,6 @@
 
 ---
 
-### 🔥 Top Repositories
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**PNEUMONIA-MACHINE-LEARNING-MODEL**](https://github.com/Niel07-cyber/PNEUMONIA-MACHINE-LEARNING-MODEL) | Detect Pneumonia from X-rays | Python, Jupyter, Numpy |
-| [**CMS AJAX**](#) | WordPress + Node.js CMS AJAX project | WordPress, Node.js, Ajax |
-| [**Book Management System**](https://github.com/Godfred-Owusu/Book_Management) | Book Management Web Application | NestJS, TypeScript, Sqlite |
-| [**Junia Drive**](https://github.com/Niel07-cyber/Junia-Drive-Cloud-Storage-Web-Appication-with-Docker.git) | Cloud Storage Application | Django, Sqlite, Docker |
-| [**Contact App**](https://github.com/dm-mensavi/contacts_app.git) | CRUD Applciation| Java, Sqlite, Scenebuilder|
-| [**JUnit Test**](https://github.com/dm-mensavi/contacts_app.git) | Java Junit Testing| Java|
 
 
 
