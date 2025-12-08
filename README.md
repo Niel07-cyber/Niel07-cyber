@@ -1,8 +1,8 @@
-<h1 align="center">Hey there 👋, I'm Othniel Aryee</h1>
+<h1 align="center">Hey there , I'm Othniel Aryee</h1>
 
 <p align="center">
-  Full-Stack Software Developer | UI/UX Designer | Quality Assurance Testing | Machine Learning<br>
-  Passionate about AI & data-driven technologies, efficent and user-friendly code. I am eager to contribute my skills to an innovative platform 
+  Full-Stack Software Developer | Web Developmemt| Automated Task | Model Training & Machine Learning Enthusiast <br>
+ Passionate about building scalable web and mobile applications , Training Models , devlivering AI-driven solutions that improve industry needs and user experience.I am eager to contribute my skills to an innovative platform
 </p>
 
 ---
