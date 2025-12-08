@@ -9,15 +9,16 @@
 
 ### 👨‍💻 About Me:
 - 🌍 Based in Lille,France
-- 🔭 Currently working on: **Deep learning Models for cardiovascular scans and modification of Nightingale website**
-- 💬 Ask me about **Mobile, Web, Quality Assurance, Model Training and UI/UX**
-- ⚡ Fun fact: I enjoy Debugging code 🎨💻
+- Willing to relocate
+- 🔭 Currently working on: **Cloud Deployment with Azure**
+- 💬 Ask me about **Innovative Solutions with Technology**
+- ⚡ Fun fact: I enjoy Designing and Problem Solving 🎨💻
 
 ---
 
 ### 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,nodejs,nestjs,php,laravel,java,python,mysql,mongodb,sqlite,django,flutter,kotlin,docker,postman,linux,figma,wordpress&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,nodejs,nestjs,php,laravel,java,python,mysql,mongodb,sqlite,django,Azure,kotlin,docker,postman,linux,figma,wordpress&theme=dark" />
 </p>
 
 ---
