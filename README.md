@@ -16,8 +16,28 @@
 
 ---
 
-### 🛠️ Tech Stack:
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,nestjs,python,java,flask,fastapi,django,php,laravel,mysql,mongodb,sqlite,tensorflow,pytorch,azure,docker,linux,git,figma,jupyter&theme=dark" /> </p>
+
+### 🛠️ Tech Stack
+
+#### 💻 Programming
+`Python` • `JavaScript` • `TypeScript`
+
+#### 🎨 Frontend
+`React` • `Next.js` • `HTML` • `CSS`
+
+#### ⚙️ Backend
+`FastAPI` • `Flask` • `Node.js` • `NestJS` • `REST APIs`
+
+#### 🤖 AI & Data Science
+`TensorFlow` • `PyTorch` • `Keras` • `CNN` • `Computer Vision`  
+`Scikit-learn` • `OpenCV` • `Model Deployment` • `LLM & NLP`
+
+#### 🛠 Tools & DevOps
+`Git/GitHub` • `Docker` • `Linux` • `Azure`  
+`MongoDB` • `SQL` • `Jupyter` • `Colab`
+
+---
+
 
 💡 Note:
 
@@ -30,9 +50,6 @@
 </p>
 
 ---
-
-
-
 
 ---
 
