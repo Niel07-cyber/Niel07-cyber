@@ -17,9 +17,9 @@
 ---
 
 ### 🛠️ Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,nodejs,nestjs,php,laravel,java,python,mysql,mongodb,sqlite,django,Azure,kotlin,docker,postman,linux,figma,wordpress&theme=dark" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,nestjs,python,java,flask,fastapi,django,php,laravel,mysql,mongodb,sqlite,tensorflow,pytorch,azure,docker,linux,git,figma,jupyter&theme=dark" /> </p>
+
+💡 Note:
 
 ---
 
