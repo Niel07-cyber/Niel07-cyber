@@ -38,19 +38,6 @@
 
 ---
 
-
-💡 Note:
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niel07-cyber&show_icons=true&theme=radical&hide=contribs" alt="GitHub Stats" />
- 
-</p>
-
----
-
 ---
 
 ### 🌐 Connect With Me:
