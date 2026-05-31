@@ -27,13 +27,13 @@
 ### 🧬 Core Engineering Capabilities
 
 #### ⚙️ Software Architecture & Object-Oriented Design
-* **Enterprise System Design:** Capable of designing modular full-stack ecosystems, breaking down monolithic architectures into decoupled, high-performance microservices.
+* **Pragmatic System Design:** Capable of evaluating business constraints and domain complexity to architect the optimal system pattern—whether designing a clean Modular Monolith for rapid velocity, or engineering decoupled Microservices and Event-Driven architectures for global scale.
 * **Advanced OOP & Patterns:** Deep expertise in writing clean, polymorphic, and maintainable object-oriented code leveraging design patterns (Singleton, Repository, Factory, and MVC).
 * **Domain-Driven Design (DDD):** Skilled at structuring complex application domains using bounded contexts, aggregates, and asynchronous event-driven message networks to ensure system extensibility.
 * **Production-Grade QA:** Committed to absolute code reliability, building rigorous automated testing grids (Unit, API, E2E) designed to sustain **80%+ test coverage** benchmarks.
 
 #### 🧠 Deep Learning & Machine Learning Systems
-* **High-Dimensional Modeling:** Capable of implementing and optimizing complex Convolutional Neural Networks (CNNs) for large-scale data pipelines (555K+ images), with specialized exposure to computer vision and clinical model validation.
+* **End-to-End Model Training:** Experienced in engineering and training deep Convolutional Neural Networks (CNNs) from scratch on large-scale datasets; independently handling data preprocessing, resolving extreme class imbalances, optimizing training loss, and validating architectures for real-world computer vision systems.
 * **Low-Latency MLOps:** Experienced in deploying production-grade AI models behind high-speed API layers (FastAPI) optimized for ultra-low latency execution (down to 51ms) inside isolated Docker containers.
 * **Model Explainability:** Skilled in applying advanced diagnostics like Grad-CAM to deep learning frameworks to ensure neural network predictions are transparent, interpretable, and production-validated.
 
@@ -107,11 +107,7 @@
 ---
 
 ### 🤝 Let's Collaborate!
-I love teaming up on cutting-edge open-source projects or complex software challenges. I'm always open to discussing:
-- ⚡ **High-performance microservice development**
-- 🐳 **MLOps, pipeline optimization, and infrastructure scaling**
-- 🏗️ **Clean code design systems, custom OOP patterns, and DDD refactoring**
-
+I love teaming up on cutting-edge open-source projects or complex software challenges.
 If you're building something cool, looking for an adaptable full-stack/AI contributor, or just want to talk software architecture—reach out via [LinkedIn](https://www.linkedin.com/in/othniel-aryee-9501a0239/) or drop me an [Email](mailto:aryeeothniel@gmail.com)! 
 
 ---
