@@ -22,25 +22,7 @@
 - 🎓 **Academic Foundation:** Master's degree in Software Engineering from **JUNIA ISEN**.
 - 🌐 **Live Portfolio:** Explore my full interactive profile at [othniel-aryee-portfolio.web.app](https://othniel-aryee-portfolio.web.app/) 🚀
 
----
 
-### 🧬 Core Engineering Capabilities
-
-#### ⚙️ Software Architecture & Object-Oriented Design
-* **Pragmatic System Design:** Capable of evaluating business constraints and domain complexity to architect the optimal system pattern—whether designing a clean Modular Monolith for rapid velocity, or engineering decoupled Microservices and Event-Driven architectures for global scale.
-* **Advanced OOP & Patterns:** Deep expertise in writing clean, polymorphic, and maintainable object-oriented code leveraging design patterns (Singleton, Repository, Factory, and MVC).
-* **Domain-Driven Design (DDD):** Skilled at structuring complex application domains using bounded contexts, aggregates, and asynchronous event-driven message networks to ensure system extensibility.
-* **Production-Grade QA:** Committed to absolute code reliability, building rigorous automated testing grids (Unit, API, E2E) designed to sustain **80%+ test coverage** benchmarks.
-
-#### 🧠 Deep Learning & Machine Learning Systems
-* **End-to-End Model Training:** Experienced in engineering and training deep Convolutional Neural Networks (CNNs) from scratch on large-scale datasets; independently handling data preprocessing, resolving extreme class imbalances, optimizing training loss, and validating architectures for real-world computer vision systems.
-* **Low-Latency MLOps:** Experienced in deploying production-grade AI models behind high-speed API layers (FastAPI) optimized for ultra-low latency execution (down to 51ms) inside isolated Docker containers.
-* **Model Explainability:** Skilled in applying advanced diagnostics like Grad-CAM to deep learning frameworks to ensure neural network predictions are transparent, interpretable, and production-validated.
-
-#### 🔀 Data Engineering & Workflow Automation
-* **Data Pipelines & Orchestration:** Expert at designing reliable, programmatic ETL orchestration systems utilizing **Apache Airflow** DAGs to eliminate manual processes and sync heterogeneous streams into production data layers.
-* **Database Architecture:** Experienced in provisioning and managing relational and non-relational storage environments (PostgreSQL, MongoDB, SQLite), enforcing data integrity, and designing optimized, paginated query layers.
-* **System Integration:** Skilled at building custom integrations with enterprise REST APIs (like OpenProject) to automate cross-functional data retrieval, parsing, and structured state tracking.
 ---
 
 ### 🛠️ Technical Stack
@@ -48,7 +30,7 @@
 <table align="center" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <h4>⚙️ Core Languages & Backend</h4>
+      <h4> Core Languages & Backend</h4>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
       <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/javascript-%23f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -57,7 +39,7 @@
       <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
     </td>
     <td valign="top" width="50%">
-      <h4>🧠 Machine Learning & Data</h4>
+      <h4> Machine Learning & Data</h4>
       <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
       <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
       <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
@@ -68,7 +50,7 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h4>⚡ Frameworks & Services</h4>
+      <h4>Frameworks & Services</h4>
       <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
       <img src="https://img.shields.io/badge/fastapi-10998a?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
       <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -77,7 +59,7 @@
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
     </td>
     <td valign="top" width="50%">
-      <h4>☁️ DevOps, Cloud & Infra</h4>
+      <h4> DevOps, Cloud & Infra</h4>
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
       <img src="https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
@@ -106,12 +88,3 @@
 
 ---
 
-### 🤝 Let's Collaborate!
-I love teaming up on cutting-edge open-source projects or complex software challenges.
-If you're building something cool, looking for an adaptable full-stack/AI contributor, or just want to talk software architecture—reach out via [LinkedIn](https://www.linkedin.com/in/othniel-aryee-9501a0239/) or drop me an [Email](mailto:aryeeothniel@gmail.com)! 
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niel07-cyber&show_icons=true&theme=tokyonight&count_private=true" alt="Othniel's GitHub Stats" />
-</p>
