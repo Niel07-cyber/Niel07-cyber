@@ -72,19 +72,4 @@
 
 ---
 
-### 📁 Top Projects
-
-💎 **[ScribeEngine ↗](https://github.com/Niel07-cyber/NestJS---API-.git)**
-> An enterprise-grade, event-driven publishing engine built with NestJS and TypeORM. Designed around Domain-Driven Design (DDD) principles, it features strict multi-tier Role-Based Access Control (RBAC) across Reader, Writer, Moderator, and Admin roles.
-
-☁️ **[EventX ↗](https://github.com/Niel07-cyber/EVENTX.git)**
-> A cloud-native event management platform built using a containerized microservices architecture. Programmatically deployed using Terraform Infrastructure as Code (IaC) across Azure Container Registries and automated Web App environments.
-
-📚 **[Library Management System ↗](https://github.com/Godfred-Owusu/Book_Management)**
-> An end-to-end Library Book Management System designed and developed by a team of four passionate developers. This project showcases a complete MERN-like stack experience, combining a ReactJS frontend with a NestJS + TypeORM + SQLite backend.
-
-🩺 **[Pneumonia Detection Platform ↗](https://github.com/Niel07-cyber/FullStack---pneumonia-detection-app.git)**
-> Full-stack computer vision system running custom TensorFlow CNN models over chest radiographies. It achieves 96.3% prediction accuracy and delivers real-time inference via a FastAPI service layer engineered for a highly optimized 51ms latency footprint.
-
----
 
